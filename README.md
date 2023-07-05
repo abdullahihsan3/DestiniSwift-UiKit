@@ -1,51 +1,33 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Destini
 
-## Our Goal
+## Goal Of The Project
 
-The goal of this challenge is to get you comfortable with implementing the MVC design pattern and thinking about the state of your app. In addition, you will be reviewing the concept of Swift Structures and using it to separate the Model from the Controller. 
+The goal of this challenge was to get comfortable with implementing the MVC design pattern and thinking about the state of your app. In addition, i was able to understand the concept of Swift Structures and using it to separate the Model from the Controller. 
 
-## What you will create
+##  Screenshots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109294768/251164662-6623d18c-8907-4703-9678-95a3f649c12b.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/109294768/251164706-b845e66b-cd27-42f9-a414-26e225e6b7c5.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/109294768/251164716-dafb4f71-0ef9-4334-a0ea-fbe5d6e4e3fe.png" width="200" height="400" />
+</p>
 
-In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+## What I Learnt From This Application
 
+* How to use structs and arrays.
+* Creating IBOutlets and attaching them to the UI Storyboard.
+* Seperation of code into the MVC design pattern.
+* Seperation of backend logic into.
+* Creating models and parsing data into it.
 
-## Story Strings
-```
-        Story(
-            title: "Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: 'Need a ride, boy?'.",
-            choice1: "I'll hop in. Thanks for the help!", choice1Destination: 2,
-            choice2: "Better ask him if he's a murderer first.", choice2Destination: 1
-        ),
-        Story(
-            title: "He nods slowly, unfazed by the question.",
-            choice1: "At least he's honest. I'll climb in.", choice1Destination: 2,
-            choice2: "Wait, I know how to change a tire.", choice2Destination: 3
-        ),
-        Story(
-            title: "As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.",
-            choice1: "I love Elton John! Hand him the cassette tape.", choice1Destination: 5,
-            choice2: "It's him or me! You take the knife and stab him.", choice2Destination: 4
-        ),
-        Story(
-            title: "What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?",
-            choice1: "The", choice1Destination: 0,
-            choice2: "End", choice2Destination: 0
-        ),
-        Story(
-            title: "As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.",
-            choice1: "The", choice1Destination: 0,
-            choice2: "End", choice2Destination: 0
-        ),
-        Story(
-            title: "You bond with the murderer while crooning verses of 'Can you feel the love tonight'. He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: 'Try the pier.'",
-            choice1: "The", choice1Destination: 0,
-            choice2: "End", choice2Destination: 0
-        )      
-```
+## 🚀 About Me
+I'm a mobile application developer working mainly in Flutter, Swift and SwiftUI. I work mainly to enhance my technical skill as well as gain managerial skills by acquiring a job in a reputable, growth-oriented organization, which provides constant personal development. A dedicated and passionate Mobile Application Developer focusing predominantly on Front end designs, but always able and willing to adapt to and learn new languages and databases.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Authors
 
-![End Banner](Documentation/readme-end-banner.png)
+- [@abdullahihsan3](https://www.github.com/abdullahihsan3)
+
+## 🛠 Skills
+Flutter, Swift, SwiftUI, Java, Figma
+
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,swift,java,mongodb)](https://skills.thijs.gg)
